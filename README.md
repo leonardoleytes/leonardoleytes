@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hola soy Leonardo 👋 
+
+## Acerca de mí
+Soy estudiante en análisis y programación de sistemas, estoy por finalizar mi carrera. Actualmente estoy en el desarrollo web, me apasiona mucho saber
+
+[![p1-1.png](https://i.postimg.cc/pVCHhNLD/p1-1.png)](https://postimg.cc/kD2Zzp84)
 
 <!--
 **leonardoleytes/leonardoleytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
